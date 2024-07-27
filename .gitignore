@@ -1,1 +1,12 @@
 # This is a .gitignore file to ignore the files that are not needed to be tracked by git.
+
+# Ignore images and captions folders
+images/
+captions/
+
+
+# Ignore the .ipynb_checkpoints folder
+.ipynb_checkpoints/
+
+# Ignore .zip files
+*.zip
