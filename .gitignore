@@ -10,3 +10,6 @@ captions/
 
 # Ignore .zip files
 *.zip
+
+# Ignore .pth files
+*.pth
